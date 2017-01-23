@@ -11,8 +11,6 @@ Extracted XoopsMediaUploader class from [Xoops](http://xoops.org) for handling f
 ## Example of usage
 
 ```php5
-  <code>
-  include_once 'uploader.php';
   $allowed_mimetypes = array('image/gif', 'image/jpeg', 'image/pjpeg', 'image/x-png');
   $maxfilesize = 50000;
   $maxfilewidth = 120;
