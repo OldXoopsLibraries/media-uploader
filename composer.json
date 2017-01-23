@@ -1,0 +1,17 @@
+{  
+   "name":"old-xoops-libraries/media-uploader",
+   "description":"File uploads handling",
+   "type":"library",
+   "require-dev":{  
+      "phpunit/phpunit":"~3.7"
+   },
+   "license":"GPLv2",
+   "require":{  
+      "php":">=5.0"
+   },
+   "autoload":{  
+      "classmap":[  
+         "./src/uploader.php"
+      ]
+   }
+}
