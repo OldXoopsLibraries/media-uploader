@@ -4,7 +4,7 @@
 
 Extracted XoopsMediaUploader class from [Xoops](http://xoops.org) for handling file uploads.
 
-##Installation
+## Installation
 
 `composer require old-xoops-libraries/media-uploader`
 
